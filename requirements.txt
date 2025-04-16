@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-experimental
+langchain-groq
+mysql-connector-python
+sqlalchemy
+python-dotenv
+pymysql
+altair
+pandas
